@@ -1,0 +1,1 @@
+user_id,session_id,utc_timestamp_iso,key,press_duration_ms,inter_key_delay_ms,is_error_backspace,word_len_context,text_domain,self_report_valence_1to9,self_report_arousal_1to9,label_emotion
